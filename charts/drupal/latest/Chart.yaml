@@ -1,0 +1,20 @@
+name: Drupal emerya
+version: 1.0
+appVersion: 8.7
+description: Application complete pour projet Drupal Emerya
+icon: https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Druplicon.vector.svg/70px-Druplicon.vector.svg.png
+keywords:
+- drupal
+- cms
+- blog
+- http
+- web
+- application
+- php
+home: http://www.drupal.org/
+sources:
+- https://github.com/MichaelBornand/charts-emerya
+maintainers:
+- name: Michael
+  email: michael.bornand@emerya.fr
+
